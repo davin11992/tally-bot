@@ -1,5 +1,6 @@
 # <img src= "https://github.com/user-attachments/assets/51dbc5b3-b532-452f-9ba3-b1176625411b" alt="시스템 구성도" width="4%" height="4%">  Tally Bot
 
+카카오톡 채팅을 읽고 자동으로 거래내역을 정산해주는 챗봇 및 웹 서비스, Tally Bot
 
 ## 💡 프로젝트 개요
 ### 여행, 회식 등 일상 속 복잡하고 귀찮은 정산을 카톡 한 줄로 단순하게!
